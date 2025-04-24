@@ -1,3 +1,38 @@
+🌟 Lista de Correções - Versão 1.0.3 📋🔧
+
+Aqui estão as melhorias e correções implementadas nesta atualização:
+🔹 Atualização Téc Utility
+🔹 MELHORIAS DE FUNCIONALIDADE
+
+✅ Adição da Opção "Ligar" (Em Testes)
+A nova função "Ligar" está em fase de testes e ainda não está funcional. Em breve, trará mais uma forma de comunicação direta.
+
+✅ Novo Perfil "Ultra"
+Introdução do perfil Ultra, com acesso exclusivo a recursos avançados e permissões diferenciadas.
+
+✅ Remoção do Financeiro do Perfil ADMIN
+O acesso ao Sistema Financeiro foi removido do perfil ADMIN para maior organização e segurança.
+
+✅ Sistema Financeiro Exclusivo para Perfil Ultra
+Agora apenas usuários com perfil Ultra terão acesso completo ao módulo financeiro, garantindo maior controle e restrição de dados sensíveis.
+
+✅ Otimização de Código e Algoritmo
+Melhorias significativas no desempenho do sistema, com otimizações no código e ajustes no algoritmo para maior eficiência.
+🔹 AJUSTES E NOTAS ADICIONAIS
+
+📌 Impacto:
+
+    Maior segurança e organização nas permissões de acesso.
+
+    Preparação para novas funcionalidades em desenvolvimento.
+
+📌 Compatibilidade:
+
+    Mantido 100% responsivo para desktop e mobile.
+
+💡 "Mais potente, mais exclusivo, mais Zyx!" 🚀
+
+
 🌟 Lista de Correções - Versão 1.0.2 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
