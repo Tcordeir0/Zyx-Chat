@@ -1,7 +1,7 @@
 🌟 Lista de Correções - Versão 1.0.3 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
-🔹 Atualização Téc Utility
+🔹 Atualização Ｔéｃ Ｕｔｉｌｉｔｙ
 🔹 MELHORIAS DE FUNCIONALIDADE
 
 ✅ Adição da Opção "Ligar" (Em Testes)
