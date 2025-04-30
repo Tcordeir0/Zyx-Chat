@@ -1,3 +1,41 @@
+🌟 Lista de Correções - Versão 1.0.4 "Horizon" 📋🔧
+
+Aqui estão as melhorias e correções implementadas nesta atualização:
+
+🔹 Atualização Ｈｏｒｉｚｏｎ
+🔹 MELHORIAS DE FUNCIONALIDADE
+
+✅ Adição de Novos Tipos de Usuários
+Novos perfis foram introduzidos para melhor distribuição de acesso e personalização, incluindo opções intermediárias entre ADMIN e Ultra.
+
+✅ Melhoria na Interface de Avisos
+Agora os alertas e notificações são mais intuitivos, com design modernizado e informações mais claras para o usuário.
+
+✅ Correção de Bugs com Contatos Recebidos
+Os contatos agora são exibidos corretamente (nomes e informações visíveis), substituindo a exibição anterior em formato de código.
+
+✅ Correções de Bugs Diversos
+Ajustes em falhas reportadas, garantindo maior estabilidade e fluidez na navegação.
+
+🔹 AJUSTES E NOTAS ADICIONAIS
+
+📌 Impacto:
+
+    Experiência do usuário mais organizada e acessível.
+
+    Comunicação mais transparente com exibição adequada de contatos.
+
+    Sistema mais estável e confiável após correções.
+
+📌 Compatibilidade:
+
+    Mantido 100% responsivo para desktop e mobile.
+
+💡 "Expandindo horizontes, elevando a experiência!" 🚀
+
+(O nome "Horizon" reflete a expansão de funcionalidades e a visão clara para o futuro do sistema.)
+
+
 🌟 Lista de Correções - Versão 1.0.3 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
