@@ -20,7 +20,7 @@ Aqui estão as melhorias e correções implementadas nesta atualização:
 ✅ 🔹 Correções de Bugs Diversos:
 ✅ Ajustes em falhas reportadas, garantindo maior estabilidade e fluidez na navegação.
 
-✅ 🔹 AJUSTES E NOTAS ADICIONAIS
+🔹 AJUSTES E NOTAS ADICIONAIS
 
 ✅ 📌 Impacto:
 
