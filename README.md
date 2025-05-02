@@ -5,19 +5,22 @@ Aqui estão as melhorias e correções implementadas nesta atualização:
 🔹 Atualização Ｈｏｒｉｚｏｎ
 🔹 MELHORIAS DE FUNCIONALIDADE
 
+✅ Remoção de , a contact
+✅ Remoção da frase ", a contact" ao final da frase de indispoibilidade de horário.
+
 ✅ Adição de Novos Tipos de Usuários
-Novos perfis foram introduzidos para melhor distribuição de acesso e personalização, incluindo opções intermediárias entre ADMIN e Ultra.
+✅ Novos perfis foram introduzidos para melhor distribuição de acesso e personalização, incluindo opções intermediárias entre ADMIN e Ultra.
 
 ✅ Melhoria na Interface de Avisos
-Agora os alertas e notificações são mais intuitivos, com design modernizado e informações mais claras para o usuário.
+✅ Agora os alertas e notificações são mais intuitivos, com design modernizado e informações mais claras para o usuário.
 
 ✅ Correção de Bugs com Contatos Recebidos
-Os contatos agora são exibidos corretamente (nomes e informações visíveis), substituindo a exibição anterior em formato de código.
+✅ Os contatos agora são exibidos corretamente (nomes e informações visíveis), substituindo a exibição anterior em formato de código.
 
 ✅ Correções de Bugs Diversos
-Ajustes em falhas reportadas, garantindo maior estabilidade e fluidez na navegação.
+✅ Ajustes em falhas reportadas, garantindo maior estabilidade e fluidez na navegação.
 
-🔹 AJUSTES E NOTAS ADICIONAIS
+✅ 🔹 AJUSTES E NOTAS ADICIONAIS
 
 📌 Impacto:
 
@@ -31,9 +34,9 @@ Ajustes em falhas reportadas, garantindo maior estabilidade e fluidez na navega�
 
     Mantido 100% responsivo para desktop e mobile.
 
-💡 "Expandindo horizontes, elevando a experiência!" 🚀
+💡 "Mais potente, mais exclusivo, mais Zyx!" 🚀
 
-(O nome "Horizon" reflete a expansão de funcionalidades e a visão clara para o futuro do sistema.)
+✅ (O nome "Horizon" reflete a expansão de funcionalidades e a visão clara para o futuro do sistema.)
 
 
 🌟 Lista de Correções - Versão 1.0.3 📋🔧
