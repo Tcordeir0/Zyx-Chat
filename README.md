@@ -1,3 +1,55 @@
+🌟 Lista de Correções - Versão 1.0.5 "Nexus" 📋🔧
+
+Aqui estão as melhorias e correções implementadas nesta atualização:
+
+🔹 Atualização Nexus
+🔹 MELHORIAS DE FUNCIONALIDADE
+
+✅ Correção de Bugs em Perfis (ADMIN, SUPADM, ULTRA e STAR)
+Ajustes nas permissões e comportamentos dos perfis de alto nível, garantindo maior estabilidade e segurança.
+
+✅ Liberação da Criação de Usuários "Users"
+Agora é possível criar contas do tipo User sem restrições, facilitando a gestão de acessos básicos.
+
+✅ Ajuste na Coloração do Financeiro
+Melhoria na visualização dos dados financeiros, com cores otimizadas para melhor contraste e legibilidade.
+
+✅ Correção da Cor do Sino de Notificações (Tema Branco)
+O ícone de notificações agora exibe a cor correta no tema claro, mantendo a consistência visual.
+
+✅ Correção de Congelamento em Mensagens
+Resolvido o bug que causava travamento ao selecionar uma opção inválida no chat.
+
+✅ Melhoria na Visualização de Notificações de Anúncios
+As notificações de anúncios agora são mais claras e organizadas, com melhor hierarquia de informações.
+
+✅ Ampliação de Imagens em Anúncios
+Nova função permite expandir imagens de anúncios para visualização em detalhes.
+
+✅ Otimização de Código e Limpeza Geral
+Remoção de redundâncias e ajustes para maior fluidez e desempenho do sistema.
+
+🔹 AJUSTES E NOTAS ADICIONAIS
+
+📌 Impacto:
+
+    Maior estabilidade nos perfis administrativos
+
+    Experiência visual aprimorada no financeiro e notificações
+
+    Sistema mais rápido e responsivo após limpeza de código
+
+📌 Compatibilidade:
+
+    Mantido 100% responsivo para desktop e mobile
+
+💡 "Mais intuitivo, mais rápido, mais Zyx!" 🚀
+
+(O nome "Nexus" representa a conexão entre correções críticas, usabilidade e performance, unindo todos os elementos para uma experiência mais sólida.)
+
+✅ Atualização liberada! (Reinicie o sistema para aplicar as mudanças.)
+
+
 🌟 Lista de Correções - Versão 1.0.4 "Horizon" 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
