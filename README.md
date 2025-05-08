@@ -1,28 +1,3 @@
-🌟 Lista de Correções - Versão 1.0.5.1 "Nexus" 📋🔧
-🔹 Atualização Nexus
-MELHORIAS DE FUNCIONALIDADE
-
-✅ Correção de seleções secundárias em loop
-Ajuste no comportamento de menus que entravam em loop ao navegar entre opções secundárias.
-🔹 AJUSTES E NOTAS ADICIONAIS
-📌 Impacto:
-
-    Estabilidade aprimorada em navegações complexas (correção de loops).
-
-    Maior confiabilidade nos perfis administrativos.
-
-    Experiência visual aprimorada no financeiro e notificações.
-
-    Sistema mais rápido e responsivo após limpeza de código.
-
-📌 Compatibilidade:
-
-    Mantido 100% responsivo para desktop e mobile.
-
-💡 "Mais intuitivo, mais rápido, mais Zyx!" 🚀
-(A versão 1.0.5.1 "Nexus" reforça a conexão entre correções críticas e performance, eliminando loops indesejados e garantindo fluidez.)
-
-
 🌟 Lista de Correções - Versão 1.0.5 "Nexus" 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
