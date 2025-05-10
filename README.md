@@ -1,3 +1,90 @@
+🌟 Lista de Correções - Versão 1.0.6 "Eclipse" 📋🔧
+
+Aqui estão as melhorias e correções implementadas nesta atualização:
+
+🔹 Atualização Eclipse
+🔹 MELHORIAS DE FUNCIONALIDADE
+
+✅ Correção de Envio de Mensagens
+✅ Resolvido o erro que impedia o envio de mensagens em determinados cenários.
+
+✅ Correção na Criação de Contatos
+✅ Agora, contatos não existentes podem ser criados sem erros em todos os perfis de usuário.
+
+✅ Reinício de Conexões
+✅ Corrigido o processo de reinício das conexões dos números, garantindo estabilidade.
+
+✅ Ajuste de Permissões por Perfil
+✅ Liberação de acessos específicos para cada perfil (ADMIN, SUPER, USER, ULTRA, STAR, SUPADM).
+
+✅ Nova Estilização em Contatos
+✅ Design moderno e intuitivo para melhor visualização e interação.
+
+✅ Kanban Fluido
+✅ Redesenho da interface do Kanban para maior fluidez e usabilidade.
+
+✅ Conexões Minimalistas
+✅ Nova estilização minimalista na aba de Conexões, focada em clareza.
+
+✅ Chat Particular em Atualização
+✅ Melhorias em andamento para o chat direto do ZYX (em fase de ajustes).
+
+✅ Remodelação da Aba de Anúncios
+✅ Nova interface e notificações mais organizadas e visíveis.
+
+✅ Zoom em Imagens de Avisos
+✅ Agora é possível ampliar imagens de avisos para visualização detalhada.
+
+✅ Formatação em Descrições de Avisos
+✅ Melhoria na exibição de textos, com opções de formatação.
+
+✅ Remoção de Mensagem de Transferência
+✅ Eliminada a mensagem redundante durante transferências de usuário.
+
+✅ Remoção Temporária de Visualização de Reações
+✅ Função desativada devido a conflitos no chat particular.
+
+✅ Ajuste de Permissões Específicas
+✅ Removidas permissões inconsistentes em certos perfis.
+
+✅ Spoiler: Nova Aba de Ajuda (Em Breve!)
+✅ Prévia da próxima atualização, incluindo tutoriais e dicas para dominar o ZYX.
+
+✅ Botão "+" para Novas Conversas
+✅ Agora é possível iniciar conversas diretamente pela tela inicial.
+
+✅ Perfil do Usuário em Chat
+✅ Ao clicar no perfil, abre-se uma tela para renomear contatos e adicionar observações.
+
+✅ Financeiro Restrito ao Perfil ULTRA
+✅ A aba financeiro foi removida de outros perfis, mantendo-se exclusiva para ULTRA.
+
+✅ Redesenho da Barra Lateral
+✅ Estilização renovada no chat e atendimentos (agora chamados de "Chat").
+
+✅ Nomeclaturas em Campos Superiores
+✅ Adicionados rótulos claros em Contatos, Grupos, Finalizados e Pesquisa na página "Chat".
+
+✅ Botão "Sair" em Tema Escuro
+✅ Mantido vermelho para melhor visibilidade, independente do tema.
+
+🔹 AJUSTES E NOTAS ADICIONAIS
+
+📌 Impacto:
+✅ Experiência mais estável com correções críticas.
+✅ Interface modernizada em múltiplos módulos.
+✅ Controle refinado de permissões e acessos.
+
+📌 Compatibilidade:
+✅ 100% responsivo (desktop/mobile).
+
+💡 "Mais intuitivo, mais poderoso, mais ZYX!" 🚀
+
+(O nome "Eclipse" simboliza a cobertura total de melhorias, obscurecendo falhas anteriores e iluminando novas funcionalidades.)
+
+✅ Atualização liberada! (Reinicie o sistema para aplicar as mudanças.)
+
+
 🌟 Lista de Correções - Versão 1.0.5 "Nexus" 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
