@@ -1,3 +1,114 @@
+🌟 Lista de Correções - Versão 1.0.7 "Aurora" 📋🔧
+
+Aqui estão as melhorias e correções implementadas nesta atualização:
+🔹 Atualização Aurora
+🔹 MELHORIAS DE FUNCIONALIDADE
+
+✅ Correção do Lag no Kanban
+
+    Agora mais fluido e responsivo, sem travamentos.
+
+✅ Correção ao Receber Contato Unitário
+
+    Resolvido o erro que impedia a exibição correta de contatos individuais.
+
+✅ Ajuste no Tema Escuro das Conversas
+
+    Nova padronização visual, com cores mais coerentes e melhor contraste.
+
+✅ Correção na Aba de Notificações
+
+    Agora exibe corretamente o grupo de origem das mensagens.
+
+✅ Remoção do Financeiro de Todos os Perfis (Exceto ULTRA)
+
+    Restrição total para evitar acesso indevido.
+
+✅ Melhoria de Desempenho no Kanban e Contatos
+
+    Otimização de carregamento e interação.
+
+✅ Redesenho do Cartão de Contato
+
+    Visual modernizado ao abrir detalhes de um contato.
+
+✅ Melhoria no Fluxo de "Iniciar uma Conversa"
+
+    Interface mais intuitiva e rápida.
+
+✅ Nova Aba de Notificações de Mensagem
+
+    Organização mais clara e funcionalidades ampliadas.
+
+✅ Adição do Botão "Silenciar Mensagens"
+
+    Permite desativar notificações de chats específicos.
+
+✅ Adição do Botão "Silenciar Som das Mensagens"
+
+    Controle rápido para desativar alertas sonoros.
+
+✅ Botão "Visualizar Grupos" na Aba de Notificações
+
+    Acesso rápido aos grupos mencionados.
+
+✅ Botão "Sair" Direto no Perfil
+
+    Agora é possível sair sem navegar até as configurações.
+
+✅ Redesenho da Aba "Contatos"
+
+    Estilo renovado, mais moderno e organizado.
+
+✅ Visualização Modernizada nos Chats
+
+    Design mais limpo e elementos melhor distribuídos.
+
+✅ Retorno do Botão "Ajuda"
+
+    Reintroduzido com acesso a tutoriais e suporte.
+
+✅ Botão "Iniciar Conversa" ao Receber Contatos
+
+    Facilidade para iniciar diálogos diretamente ao receber mensagens.
+
+✅ Correção na Visualização de Contatos
+
+    Resolvido o bug que ocultava contatos em novas mensagens.
+
+✅ Correção no Envio de Mensagens (Dispositivos Específicos)
+
+    Compatibilidade ampliada para evitar falhas.
+
+✅ Otimização de Algoritmos Internos
+
+    Correções de bugs e ajustes para maior estabilidade.
+
+✅ Melhoria Geral nos Temas Escuro e Claro
+
+    Harmonização de cores e elementos visuais.
+
+🔹 AJUSTES E NOTAS ADICIONAIS
+
+📌 Impacto:
+
+    Experiência mais fluida com correções críticas de desempenho.
+
+    Interface modernizada em múltiplos módulos (contatos, notificações, chats).
+
+    Controle refinado de notificações e acessos.
+
+📌 Compatibilidade:
+
+    ✅ 100% responsivo (desktop/mobile).
+
+💡 "Mais intuitivo, mais poderoso, mais ZYX!" 🚀
+
+(O nome "Aurora" simboliza o alvorecer de uma experiência renovada, com foco em clareza e eficiência.)
+
+✅ Atualização liberada! (Reinicie o sistema para aplicar as mudanças.)
+
+
 🌟 Lista de Correções - Versão 1.0.6 "Eclipse" 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
