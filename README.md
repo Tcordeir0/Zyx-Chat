@@ -87,6 +87,10 @@ Aqui estão as melhorias e correções implementadas nesta atualização:
 ✅ Melhoria Geral nos Temas Escuro e Claro
 
     Harmonização de cores e elementos visuais.
+    
+✅ Remoção da página Kanban e Tags
+
+    Estão bugadas.
 
 🔹 AJUSTES E NOTAS ADICIONAIS
 
