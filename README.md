@@ -1,3 +1,95 @@
+🌟 Lista de Correções - Versão 1.0.8 "Spectrum" 📋🔧
+
+Aqui estão as melhorias e correções implementadas nesta atualização:
+🔹 MELHORIAS DE INTERFACE
+
+✅ Redesenho completo do "Ajuda"
+
+    Nova interface intuitiva com acesso rápido a tutoriais e suporte.
+
+✅ DashBoard modernizado
+
+    Visual mais limpo e informações prioritárias destacadas.
+
+✅ Nova interface para OpenAI
+
+    Integração visual harmonizada com temas claro/escuro.
+
+✅ Layout moderno no menu "Editar Mensagem"
+
+    Opções reorganizadas para maior praticidade.
+
+✅ Padronização de cores nos temas
+
+    Correções no tema escuro (anúncios, notificações) e sincronia com o tema branco.
+
+✅ Visualização intuitiva no Layout principal
+
+    Elementos redesenhados para melhor usabilidade e estética moderna.
+
+✅ Conexões com design renovado
+
+    Aba de configurações expandida (veja Novas Funcionalidades).
+
+🔹 NOVAS FUNCIONALIDADES
+
+🚀 Notificações clicáveis
+
+    Ao clicar em notificações de contatos/grupos, o usuário é redirecionado diretamente para a conversa.
+
+🚀 Configurações avançadas em "Conexões"
+
+    Novas opções:
+
+        Permitir grupos (controle de acesso).
+
+        Imagem de saudação (personalização).
+
+        Integrações (chatbot em testes).
+
+        Avaliações e Fluxo padrão (vinculado ao FlowBuilder).
+
+🚀 Página experimental "FlowBuilder"
+
+    Em fase de testes: Ferramenta para criação de fluxos automatizados (não liberada para uso geral).
+
+🚀 Suporte integrado nas conexões
+
+    Acesso rápido a canais de ajuda diretamente na aba.
+
+🔹 AJUSTES TÉCNICOS
+
+🔧 Notificações de anúncios
+
+    Ping alterado para roxo (destaque visual).
+
+    Correção de cores e alinhamento com o tema escuro.
+
+🔧 Melhorias de desempenho
+
+    Otimizações gerais e correção de bugs menores.
+
+🔧 Kanban ainda não funcional
+
+    Em desenvolvimento: Segue temporariamente desativado para ajustes profundos.
+
+🔹 NOTAS ADICIONAIS
+
+📌 Impacto:
+
+    Experiência mais fluida e visualmente coesa.
+
+    Controle granular sobre conexões e interações.
+
+📌 Compatibilidade:
+
+    100% responsivo (desktop/mobile).
+
+💡 "Spectrum" reflete a diversidade de melhorias: desde cores até funcionalidades emergentes! 🎨🚀
+
+✅ Atualização liberada! (Reinicie o sistema para aplicar as mudanças.)
+
+
 🌟 Lista de Correções - Versão 1.0.7 "Aurora" 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
