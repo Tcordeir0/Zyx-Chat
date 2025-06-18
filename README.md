@@ -1,3 +1,89 @@
+🌟 ZYX Chat - Versão 1.0.9 "Nova"
+
+(Codinome inspirado na reinvenção visual e nas novas capacidades de automação)
+🔥 DESTAQUES REVOLUCIONÁRIOS
+
+    Sistema de Automação Completo (ChatBot + FlowBuilder)
+
+    Redesign Total da Interface
+
+    Núcleo Técnico Modernizado
+
+🛠 NOVOS MÓDULOS IMPLANTADOS
+🤖 ChatBot Corporativo
+
+    Painel de configuração integrado ao dashboard
+
+    Respostas inteligentes baseadas em contexto
+
+    Histórico de interações com usuários
+
+📈 Painel de Métricas
+
+    Monitoramento em tempo real do ChatBot
+
+    Taxa de resolução automática de tickets
+
+    Heatmap de interações
+
+🎨 REVOLUÇÃO VISUAL
+🖌 Design System Atualizado
+
+    Nova Paleta de Cores:
+
+        Azul corporativo (#3b82f6) como cor primária
+
+        Gradientes sutis em elementos interativos
+
+        Cores semânticas para alertas (vermelho/verde/amarelo)
+
+    Estilo Minimalista:
+
+        Bordas reduzidas (máx. 1px)
+
+        Sombras mais sutis
+
+        Espaçamento otimizado
+
+    Tipografia:
+
+        Fontes 10% mais compactas
+
+        Hierarquia visual melhorada
+
+🌗 Sistema de Temas Aprimorado
+
+    143 componentes adaptados para dark/light mode
+
+    Transições suaves entre temas
+
+    Ícones dinâmicos que invertem automaticamente
+
+⚙ MELHORIAS TÉCNICAS
+📦 Stack Modernizada
+bash
+
+Dependências instaladas:
+- reactflow@11.7.0 (Automação)
+- @material-ui/lab@4.0.0-alpha.61 (Componentes)
+
+🚀 Performance
+
+    Redução de 40% no bundle size
+
+    Carregamento lazy de módulos pesados
+
+    Cache inteligente de componentes
+
+🧩 Integrações
+
+    API de categorização automática
+
+    Webhooks para eventos do FlowBuilder
+
+    Sync em tempo real com sistemas legados
+
+
 🌟 Lista de Correções - Versão 1.0.8 "Spectrum" 📋🔧
 
 Aqui estão as melhorias e correções implementadas nesta atualização:
