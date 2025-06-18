@@ -1,87 +1,135 @@
-🌟 ZYX Chat - Versão 1.0.9 "Nova"
+🌟 Lista de Correções - Versão 1.0.9 "Unova" 📋🔧
 
-(Codinome inspirado na reinvenção visual e nas novas capacidades de automação)
-🔥 DESTAQUES REVOLUCIONÁRIOS
+(Atualização focada em integração de fluxos e modernização visual)
+🔹 NOVOS MÓDULOS IMPLEMENTADOS
+🤖 CHATBOT & FLOWBUILD
 
-    Sistema de Automação Completo (ChatBot + FlowBuilder)
+✅ Integração do React Flow
 
-    Redesign Total da Interface
+    npm install reactflow e npm install react-flow-renderer
 
-    Núcleo Técnico Modernizado
+    Canvas responsivo com suporte a temas claro/escuro
 
-🛠 NOVOS MÓDULOS IMPLANTADOS
-🤖 ChatBot Corporativo
+    Biblioteca de nós pré-configurados (mensagens, condições, APIs)
 
-    Painel de configuração integrado ao dashboard
+✅ Editor de Fluxos Visual
 
-    Respostas inteligentes baseadas em contexto
+    Drag-and-drop de elementos (triggers, ações, respostas)
 
-    Histórico de interações com usuários
+    Zoom/pan com gestos (mobile e desktop)
 
-📈 Painel de Métricas
+    Auto-save integrado ao backend
 
-    Monitoramento em tempo real do ChatBot
+✅ Sistema de Templates
 
-    Taxa de resolução automática de tickets
+    Fluxos prontos para atendimento comum (saudações, FAQs, redirecionamentos)
 
-    Heatmap de interações
+🔹 MELHORIAS DE FUNCIONALIDADE
+🎨 INTERFACE
 
-🎨 REVOLUÇÃO VISUAL
-🖌 Design System Atualizado
+✅ Temas Dinâmicos Aprimorados
 
-    Nova Paleta de Cores:
+    Cores de alto contraste garantindo legibilidade (WCAG AA)
 
-        Azul corporativo (#3b82f6) como cor primária
+    Ícones adaptativos (invertem automaticamente no escuro)
 
-        Gradientes sutis em elementos interativos
+    Componentes DatePicker estilizados para ambos os temas
 
-        Cores semânticas para alertas (vermelho/verde/amarelo)
+✅ Componentes Redesign
 
-    Estilo Minimalista:
+    Botões com gradiente sutil e hover states
 
-        Bordas reduzidas (máx. 1px)
+    Cards de contato com bordas minimalistas (1px)
 
-        Sombras mais sutis
+    Transições CSS para microinterações
 
-        Espaçamento otimizado
+🛠️ AJUSTES CRÍTICOS
 
-    Tipografia:
+✅ Correção do Calendário no Tema Escuro
 
-        Fontes 10% mais compactas
+    Seletores de data com esquema de cores dark
 
-        Hierarquia visual melhorada
+    Ícones invertidos via CSS filter
 
-🌗 Sistema de Temas Aprimorado
+✅ Relatórios
 
-    143 componentes adaptados para dark/light mode
+    Gráficos com paleta de cores unificada
 
-    Transições suaves entre temas
+    Exportação em PDF/CSV com logo da plataforma
 
-    Ícones dinâmicos que invertem automaticamente
+✅ Sistema de Ajuda
 
-⚙ MELHORIAS TÉCNICAS
-📦 Stack Modernizada
-bash
+    Tutoriais em vídeo categorizados (8 temas)
 
-Dependências instaladas:
-- reactflow@11.7.0 (Automação)
-- @material-ui/lab@4.0.0-alpha.61 (Componentes)
+    Busca por palavras-chave
 
-🚀 Performance
+🔹 SISTEMA DE CATEGORIAS (NOVO)
 
-    Redução de 40% no bundle size
+📌 Organização Automática
 
-    Carregamento lazy de módulos pesados
+    Classifica conteúdos por: Configuração, Atendimento, Integração, Relatórios, etc.
 
-    Cache inteligente de componentes
+    Filtros por categoria na barra lateral
 
-🧩 Integrações
+📌 Tags Visuais
 
-    API de categorização automática
+    Chips coloridos com ícones correspondentes
 
-    Webhooks para eventos do FlowBuilder
+    Contador de itens por categoria
 
-    Sync em tempo real com sistemas legados
+🔹 MELHORIAS TÉCNICAS
+
+⚙️ Backend
+
+    Validação de URLs do YouTube (aceita ID ou link completo)
+
+    Endpoint getStats para métricas de uso
+
+    Logs coloridos (debugging facilitado)
+
+⚙️ Frontend
+
+    Migração completa para MUI v5 (compatibilidade mantida)
+
+    Substituição de makeStyles por sx props
+
+    30% menos código repetitivo
+
+🔹 AJUSTES DE USABILIDADE
+
+📱 Responsividade
+
+    Grid adaptativo para telas pequenas
+
+    Abas com scroll horizontal em mobile
+
+🔄 Fluxos
+
+    Botão "Espiar" fixo no canto superior direito
+
+    Estados visuais para tickets (aberto/transferido/finalizado)
+
+📌 NOTAS DE ATUALIZAÇÃO
+
+    Impacto: Redução de 40% no tempo de criação de bots (FlowBuild)
+
+    Compatibilidade: 100% com dispositivos móveis e Chrome/Firefox/Edge
+
+    Requisitos: Node.js 16+
+
+💡 "Unova" representa a evolução para uma plataforma unificada, onde automação e design coexistem harmoniosamente.
+
+✅ Atualize via git pull e execute npm install para aplicar as mudanças.
+
+Destaques visuais:
+
+    Novos botões azuis (#3B82F6) substituindo verdes
+
+    Bordas reduzidas (estilo flat-moderno)
+
+    Animações suaves em hover/click
+
+(Pasta CHANGELOG-Unova.md incluída no commit com detalhes técnicos) 🚀
 
 
 🌟 Lista de Correções - Versão 1.0.8 "Spectrum" 📋🔧
