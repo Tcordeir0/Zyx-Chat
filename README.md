@@ -1,57 +1,69 @@
-🌟 Lista de Correções - Versão 1.1.0 "Omni" 📋🔥
-🔥 NOVOS SISTEMAS
-🤖 Kanban 2.0
+🌟 Lista de Correções - Versão 1.1.0 "Momentum" 📋🔧
 
-✅ Correções Críticas:
+(Atualização massiva focada em estabilidade, novas funcionalidades de automação e modernização da interface.)
 
-    Loop infinito de requests resolvido
+🔹 SISTEMA DE KANBAN 2.0 (REFORMULADO)
+🚀 Modernização e Correções Críticas
 
-    Circuit breaker implementado
+✅ Correções de Bugs Críticos: Resolvido loop infinito de requisições que causava sobrecarga no servidor. Implementado "circuit breaker" e "rate limiting" para prevenir excesso de chamadas à API.
 
-    Rate limiting (5s entre requests)
+🎨 Interface e Tema Escuro: Kanban agora possui cores dinâmicas que se adaptam ao tema (claro/escuro), com transições suaves e scrollbars personalizadas. A legibilidade foi aprimorada com maior contraste.
 
-✅ Tema Inteligente:
+🔧 Tratamento de Erros Robusto: O sistema agora exibe mensagens específicas para diferentes erros (401, 403, 404, 500) e utiliza métodos alternativos para mover tickets em caso de falha. Inclui detecção de conexão offline.
 
-    Detecção automática do SO
+📱 Responsividade Aprimorada: O layout do Kanban foi otimizado para tablets e smartphones, com gestos de toque aprimorados.
 
-    Transições suaves claro/escuro
+📊 Logs e Debug: Logs de operações foram detalhados para facilitar o troubleshooting e monitoramento de performance.
 
-✅ Mobile First:
+🔒 Segurança e Validação: Implementada validação de permissões do usuário antes de executar operações no Kanban.
 
-    Touch gestures otimizados
+🔹 NOVAS FUNCIONALIDADES DE ATENDIMENTO
+🚀 Sistema de Horário de Almoço Individual
 
-    Layout adaptativo para smartphones
+✅ Configuração por Usuário: Agora, cada atendente pode definir seu próprio horário de almoço no seu perfil.
 
-🍽 Horário de Almoço
+✅ Resposta Automática: Durante o período configurado, o sistema envia uma mensagem de ausência automática para os novos contatos.
 
-✅ Por usuário:
+✅ Mensagem Personalizada: É possível definir uma mensagem de almoço customizada ou usar a padrão do sistema.
 
-    Configuração individual de horários
+🚀 Chat Avançado com Anexos e Emojis
 
-    Mensagem personalizável
+✅ Envio de Arquivos: Adicionado botão (📎) para anexar e enviar imagens, documentos e outros arquivos diretamente pelo chat.
 
-✅ Backend:
+✅ Seletor de Emojis: Integrado um seletor de emojis (😊) para enriquecer a comunicação.
 
-    4 novos campos no BD
+✅ Autoformatação de Mensagens: O chat agora suporta formatação de texto como negrito, itálico e código.
 
-    Métodos isInLunchTime()
+🔹 SISTEMA DE TAGS APRIMORADO
+🎨 Interface de Gestão Renovada
 
-💬 Chat Avançado
+✅ Dashboard de Estatísticas: A página de Tags agora exibe métricas como total de tags, tickets por tag e a tag mais utilizada.
 
-✅ Novos Recursos:
+✅ Criação Rápida e Visual: O modal de criação/edição de tags foi redesenhado com um seletor de cores avançado e preview em tempo real.
 
-    Upload de arquivos (10MB) 📎
+✅ Filtros Múltiplos: A filtragem de tickets agora permite a seleção de múltiplas tags simultaneamente.
 
-    Seletor de emojis nativo 😊
+⚙️ Integração com Kanban: Adicionada uma opção para que uma tag possa ser usada como uma coluna no quadro Kanban.
 
-🛠 MELHORIAS TÉCNICAS
+🔹 MELHORIAS TÉCNICAS
+⚙️ Backend e Banco de Dados
 
-✅ Performance:
+✅ Novos Campos de Usuário: Adicionadas colunas na tabela Users para suportar a funcionalidade de "Horário de Almoço" (lunchStartTime, lunchEndTime, etc.).
 
-    Memoização de componentes
+✅ Modelo de Mensagem Aprimorado: A estrutura de dados de ChatMessage foi expandida para suportar status de entrega, reações, respostas e tipos de mídia.
 
-    Lazy loading de dados
+✅ Otimização de Consultas: Adicionados novos índices ao banco de dados para acelerar buscas e filtros.
 
+🔧 Correção de Reações no WhatsApp: Resolvido bug que impedia o funcionamento de reações em conversas privadas.
+
+📌 NOTAS ADICIONAIS
+Impacto: A plataforma está significativamente mais estável, especialmente no Kanban. As novas funcionalidades de automação (horário de almoço) e de comunicação (anexos, emojis) modernizam a experiência de atendimento.
+
+Compatibilidade: 100% responsivo (desktop/mobile) e compatível com os principais navegadores.
+
+Requisitos: Node.js 16+. Requer execução de novas migrations do banco de dados para aplicar as mudanças nas tabelas.
+
+💡 "Momentum" representa o impulso de estabilidade e a aceleração de novas funcionalidades, levando a automação e a experiência do usuário para o próximo nível.
 
 🌟 Lista de Correções - Versão 1.0.9 "Unova" 📋🔧
 
