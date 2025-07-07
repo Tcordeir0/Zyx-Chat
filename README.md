@@ -1,38 +1,20 @@
 🌟 Lista de Correções - Versão 1.1.0 "Omni" 📋🔥
+🔥 NOVOS SISTEMAS
+🤖 Kanban 2.0
 
-(Atualização revolucionária com Kanban 2.0, Horário de Almoço e Chat Privado Avançado)
-🔥 NOVOS SISTEMAS IMPLEMENTADOS
-🤖 Kanban 2.0 (Totalmente Reestruturado)
-
-✅ Correção de bugs críticos:
+✅ Correções Críticas:
 
     Loop infinito de requests resolvido
 
-    Circuit breaker para prevenir sobrecarga
+    Circuit breaker implementado
 
     Rate limiting (5s entre requests)
 
-✅ Tema Escuro Inteligente:
+✅ Tema Inteligente:
 
     Detecção automática do SO
 
-    Cores dinâmicas e transições suaves
-
-    Scrollbars personalizadas
-
-✅ Segurança reforçada:
-
-    Validação de permissões em tempo real
-
-    Timeout configurável para requests
-
-✅ Performance turbinada:
-
-    Memoização de componentes pesados
-
-    Lazy loading de dados não críticos
-
-    Redução de 60% em re-renders
+    Transições suaves claro/escuro
 
 ✅ Mobile First:
 
@@ -40,123 +22,36 @@
 
     Layout adaptativo para smartphones
 
-🍽 Sistema de Horário de Almoço (Por Usuário)
+🍽 Horário de Almoço
+
+✅ Por usuário:
+
+    Configuração individual de horários
+
+    Mensagem personalizável
 
 ✅ Backend:
 
-    4 novos campos no BD (lunchStartTime, lunchEndTime, etc)
+    4 novos campos no BD
 
-    Métodos isInLunchTime() e getLunchMessage()
+    Métodos isInLunchTime()
 
-✅ Frontend:
-
-    Seção dedicada no modal de usuário
-
-    Switch de ativação + campos de horário
-
-    Preview de mensagem em tempo real
-
-✅ Funcionalidades:
-
-    Resposta automática anti-spam (1x/30min)
-
-    Mensagem padrão ou personalizada
-
-    Compatível com temas claro/escuro
-
-💬 Chat Privado Avançado
+💬 Chat Avançado
 
 ✅ Novos Recursos:
 
-    Upload de arquivos (10MB max) 📎
+    Upload de arquivos (10MB) 📎
 
     Seletor de emojis nativo 😊
 
-    Formatação automática (negrito, itálico)
-
-✅ Backend Aprimorado:
-
-    5 novas rotas API (/chats/emojis, /upload, etc)
-
-    Modelo ChatMessage reestruturado
-
-✅ Segurança:
-
-    Filtros rigorosos por tipo de arquivo
-
-    Hash único anti-duplicação
-
 🛠 MELHORIAS TÉCNICAS
-🗃 Banco de Dados
-sql
 
--- Novas colunas Users
-ALTER TABLE "Users" 
-ADD COLUMN "lunchStartTime" VARCHAR(5),
-ADD COLUMN "lunchEndTime" VARCHAR(5);
+✅ Performance:
 
-📊 Sistema de Tags & Kanban
+    Memoização de componentes
 
-✅ Integração total:
+    Lazy loading de dados
 
-    Flag "Kanban" nas tags
-
-    Sincronização automática colunas/tags
-
-✅ UI Modernizada:
-
-    20 cores predefinidas
-
-    Glassmorphism e gradientes
-
-🎨 MELHORIAS DE INTERFACE
-
-✅ Dashboard de Tags:
-
-    Métricas em tempo real
-
-    Visualização Card/Tabela
-
-✅ Componentes Redesign:
-
-    Chips animados com hover
-
-    Tooltips contextuais
-
-✅ Acessibilidade:
-
-    ARIA labels para screen readers
-
-    Navegação por teclado
-
-⚡ OTIMIZAÇÕES
-
-✅ Frontend:
-
-    Debounce de 500ms em buscas
-
-    Animações CSS3 aceleradas por GPU
-
-✅ Backend:
-
-    Batch requests para APIs
-
-    Error retry automático
-
-📌 NOTAS DE ATUALIZAÇÃO
-markdown
-
-🔄 **MIGRAÇÃO NECESSÁRIA:**  
-1. Executar ALTER TABLE nos Users  
-2. `npm install reactflow` (Novo Kanban)  
-
-📱 **COMPATIBILIDADE:**  
-- 100% responsivo (mobile/desktop)  
-- Chrome, Firefox, Edge, Safari  
-
-💡 **DICA:** Use `tail -f logs/application.log | grep "almoco"` para monitorar respostas automáticas  
-
-✏️ Assinatura: "Omni representa a unificação perfeita entre automação, design e produtividade!"
 
 🌟 Lista de Correções - Versão 1.0.9 "Unova" 📋🔧
 
